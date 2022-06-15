@@ -1,1 +1,1 @@
-this file contains string related files
+this file contains string related documents
